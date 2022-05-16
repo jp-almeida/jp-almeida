@@ -8,7 +8,7 @@
 I'm a brazilian computer science student at Federal University of Ceara (UFC)
 
 ## About me
-🔭&nbsp;I’m currently working on **Oracle APEX development at Tribunal De Contas da União (TCU)**
+🔭&nbsp;I’m currently working at **Tribunal De Contas da União (TCU) as a web developer**
 <br/>🎓&nbsp;Graduated in **Computer Science at UFC**
 <br/>🌱&nbsp;Learning about **Web and Mobile development**
 <br/>💡&nbsp;I'm interested about **Computer Science, Games and Series**
