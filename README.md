@@ -26,6 +26,6 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jp-almeida&theme=tokyonight&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-almeida&theme=default&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-almeida&theme=default">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-almeida&theme=dracula&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-almeida&theme=dracula">
 </div>
