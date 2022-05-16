@@ -9,8 +9,8 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 
 ## About me
 🔭&nbsp;I’m currently working on **Oracle APEX development at Tribunal De Contas da União (TCU)**
-<br/>🎓&nbsp;Graduated in **Graduating in Computer Science at UFC**
-<br/>🌱&nbsp;Learning about **Learning about Web and Mobile development**
+<br/>🎓&nbsp;Graduated in **Computer Science at UFC**
+<br/>🌱&nbsp;Learning about **Web and Mobile development**
 <br/>💡&nbsp;I'm interested about **Computer Science, Games and Series**
 <br/>💬&nbsp;Ask me about **Programming in general**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
