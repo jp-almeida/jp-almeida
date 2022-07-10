@@ -16,12 +16,12 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 
 ## Tech Stack
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" alt="oracle Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 
 ## GitHub Analytics
 <div>
