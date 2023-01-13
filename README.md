@@ -23,9 +23,3 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" alt="oracle Badge" height="25">&nbsp;
 
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jp-almeida&theme=tokyonight&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-almeida&theme=dracula&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-almeida&theme=dracula">
-</div>
